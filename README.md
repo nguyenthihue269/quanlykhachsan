@@ -1,1 +1,9 @@
 # quanlykhachsan
+Goals
+Phần mềm quản lý khách sạn ứng dung rất nhiều vào đời sống thực tế, giúp người quản lý, nhân viên khách sạn quản lý các thông tin: phòng, người dùng, nhu cầu của con người dễ dàng hơn, và có thể kiểm tra phòng còn trống để khách hàng có thể đặt phòng một cách nhanh chóng, thuận tiện, xem thông tin các phòng cũng như thêm xoá sửa các phòng phù hợp với khách sạn,...Kiểm tra checkin, checkout, và in hóa đơn cho khách hàng. Đối với khách hàng việc đặt phòng rất dễ dàng và thuận tiện.
+Business objectives
+-	Phần mềm dạng ứng dụng cho máy tính cá nhân, chỉ có nhân viên lễ tân, nhân viên bán hàng, quản lí khách sạn được sử dụng
+-	Nhân viên lễ tân có thể tìm phòng trống theo yêu cầu trực tiếp của khách, checkin cho khách đã đặt phòng hoặc đặt phòng trực tiếp, checkout cho khách và in hóa đơn thanh toán cho khách
+-	Nhân viên bán hàng có thể tìm phòng trống và đặt phòng theo yêu cầu của khách.
+-	Quản lí có thể: thêm/sửa/xóa thông tin phòng, xem các báo cáo doanh thu theo thời gian/theo phòng/theo loại phòng, xem báo cáo tỉ lệ phòng trống theo thời gian/theo phòng/theo loại phòng, xem báo cáo khách hàng đặt nhiều theo thời gian/theo nguồn gốc khách hàng.
+-	Thông tin về khách sạn bao gồm : tên, địa chỉ, số sao, mô tả (bao gồm mô tả bằng text và bằng hình ảnh).
